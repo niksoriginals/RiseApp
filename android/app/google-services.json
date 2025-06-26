@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "675039619764",
+    "project_id": "riseupgraded",
+    "storage_bucket": "riseupgraded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675039619764:android:d944a6d19c68389e9845e1",
+        "android_client_info": {
+          "package_name": "com.ashu.risepvt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675039619764-f8rm0le745gdh6ed0jkaks7up3d12bua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashu.risepvt",
+            "certificate_hash": "0e1f3b9924520bd05315f7a316296a564e836375"
+          }
+        },
+        {
+          "client_id": "675039619764-lporrel5ncgqtt2kth1isuuu7719iavt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMOFbboEWK2R7GMKJ4UMrSNg2Y-gB9Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675039619764-lporrel5ncgqtt2kth1isuuu7719iavt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675039619764-5t3efg00d7shrk8cmee31du4393v7s9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xrisepvtz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
