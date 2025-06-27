@@ -1,6 +1,6 @@
 # RISEPVT
 
-**RISEPVT** is a sleek, minimal mobile-first web application that combines secure messaging and personalized music features in a single platform. Built with clean UI design and smooth user experience in mind, RISEPVT is a personal project by [Nikhil Yadav](https://risepvt.netlify.app) to explore full-stack app development with a creative edge.
+**RISEPVT** is a sleek, minimal mobile-first Android application that combines secure messaging and personalized music features in a single platform. Built with clean UI design and smooth user experience in mind, RISEPVT is a personal project by [Nikhil Yadav](https://niksoriginals.netlify.app) to explore full-stack app development with a creative edge.
 ---
 
 ## ✨ Features
