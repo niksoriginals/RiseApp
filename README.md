@@ -1,18 +1,41 @@
-# xrisepvtz
+# RISEPVT
 
-A new Flutter project.
+**RISEPVT** is a sleek, minimal mobile-first web application that combines secure messaging and personalized music features in a single platform. Built with clean UI design and smooth user experience in mind, RISEPVT is a personal project by [Nikhil Yadav](https://risepvt.netlify.app) to explore full-stack app development with a creative edge.
 
-## Getting Started
+🚀 **Live Preview**: [risepvt.netlify.app](https://risepvt.netlify.app)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔒 Secure login via **Phone** or **Google**
+- 💬 Real-time chat UI with profile support
+- 🎵 Music tab with audio integration (Spotify-inspired)
+- 👤 Editable user profiles with image and info
+- 🎨 Smooth, modern UI with blurred backgrounds and gradients
+- 📱 Responsive design for mobile and tablet users
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/showcase1.jpg" width="200"/>
+  <img src="assets/showcase2.jpg" width="200"/>
+  <img src="assets/showcase3.jpg" width="200"/>
+</p>
+
+*Want the full app preview? Visit [risepvt.netlify.app](https://risepvt.netlify.app)*
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: HTML, CSS (Tailwind), JavaScript
+- **Backend/Services**: Firebase Auth, Firestore (optional)
+- **Hosting**: Netlify
+- **Design**: Figma + Custom GIFs + Boxicons
+
+---
 
 
